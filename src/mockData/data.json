@@ -1,0 +1,102 @@
+{
+  "lenders": [
+    {
+      "id": 1,
+      "name": "Together Money",
+      "description": "Together Money is an award-winning lender with over 45 years of experience in offering mortgages and secured loan products to individuals and businesses.",
+      "url": "https://providefinance.com/lenders/together/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/together.png"
+    },
+    {
+      "id": 2,
+      "name": "LandlordInvest: Your Premier Property Finance Marketplace",
+      "description": "LandlordInvest is a Patron member of the NACFB and a fully FCA authorised and regulated marketplace lending platform, funded by both private lenders and institutions.",
+      "url": "https://providefinance.com/lenders/landlord-invest/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Lender-Logos-Square-2.png"
+    },
+    {
+      "id": 3,
+      "name": "Hilltop Credit Partners",
+      "description": "Hilltop Credit Partners provides tailored financing solutions to help developers scale their projects and grow their businesses.",
+      "url": "https://providefinance.com/lenders/hilltop-credit-partners/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Hilltop-Credit-Partners-768x188-1.gif"
+    },
+    {
+      "id": 4,
+      "name": "Bibby Financial Services",
+      "description": "Bibby Financial Services is a leading finance invoice specialist and trusted provider of cash flow funding solutions to more than 7,800 businesses in the UK.",
+      "url": "https://providefinance.com/lenders/bibby-financial-services/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Bibby_Financial_RGB_small.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Charterbank Capital",
+      "description": "Charterbank Capital specialises in short-term property finance and operates throughout the southern half of the UK.",
+      "url": "https://providefinance.com/lenders/charterbank-capital/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Charterbank-Capital-768x238-1.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Cynergy Bank",
+      "description": "Cynergy Bank provides a range of products and services to help customers manage their professional and personal financial requirements.",
+      "url": "https://providefinance.com/lenders/cynergy-bank/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Cynergy-Bank-Logo.png"
+    },
+    {
+      "id": 7,
+      "name": "MT Finance",
+      "description": "MT Finance specialises in property finance and providing short-term loans, including bridging loans and auction finance.",
+      "url": "https://providefinance.com/lenders/mt-finance/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/mt-finance-original-logo-768x217-1.png"
+    },
+    {
+      "id": 8,
+      "name": "Acuity Finance",
+      "description": "Acuity Finance offers invoice finance and secured business loans to help small and medium-sized businesses tackle their cash flow challenges.",
+      "url": "https://providefinance.com/lenders/acuity-finance/",
+      "img": "https://providefinance.com/wp-content/uploads/2023/04/ghost.png"
+    },
+    {
+      "id": 9,
+      "name": "Hope Capital",
+      "description": "Hope Capital is a specialist bridging lender with expert knowledge of the property and finance markets.",
+      "url": "https://providefinance.com/lenders/hope-capital/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/HopeCapital-Logo-Main-Black-Green-2.jpeg"
+    },
+    {
+      "id": 10,
+      "name": "CrowdProperty",
+      "description": "CrowdProperty is a specialist peer-to-peer lender that provides quick and easy finance to property professionals.",
+      "url": "https://providefinance.com/lenders/crowdproperty/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/CrowdProperty-Green-Logo-Full-Strapline@4x-768x132-1.png"
+    },
+    {
+      "id": 11,
+      "name": "Unbranded Finance",
+      "description": "Unbranded Finance is a principal provider of rapid short-term finance solutions for businesses and property investors secured against any type of property throughout the United Kingdom.",
+      "url": "https://providefinance.com/lenders/unbranded-finance/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/unbranded-logo-768x277-1.jpeg"
+    },
+    {
+      "id": 12,
+      "name": "The Sancus Group",
+      "description": "The Sancus Group offers borrowers fast access to bridging and development property finance and secured asset-backed loans.",
+      "url": "https://providefinance.com/lenders/the-sancus-group/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/Sancus_logo-cmyk-768x243-1.jpeg"
+    },
+    {
+      "id": 13,
+      "name": "Interbridge Finance",
+      "description": "Interbridge is a short-term property lender that provides non-regulated loans secured against residential property.",
+      "url": "https://providefinance.com/lenders/interbridge-finance/",
+      "img": "https://providefinance.com/wp-content/uploads/2022/08/interbridge-logo-1024x3516476-1-768x263-1.png"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "123"
+    }
+  ]
+}
